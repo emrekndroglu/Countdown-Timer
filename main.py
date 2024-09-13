@@ -11,5 +11,4 @@ def countdown(t):
     print('Time is up')
 t = input("Enter the time in seconds: ")
 
-# function call
 countdown(int(t))
